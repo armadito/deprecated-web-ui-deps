@@ -1,0 +1,13 @@
+{
+  "name": "angular-tree-view",
+  "homepage": "https://github.com/axel-zarate/angular-tree-view",
+  "_release": "74e3b241c9",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "74e3b241c9de5d8fc0e7e8bd3ea3afda930d5d9e"
+  },
+  "_source": "https://github.com/axel-zarate/angular-tree-view.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/axel-zarate/angular-tree-view.git"
+}
