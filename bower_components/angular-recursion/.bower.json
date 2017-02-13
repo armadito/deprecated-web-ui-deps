@@ -40,6 +40,6 @@
     "commit": "5ce7d0fc698f4c9af2cfa11031dce4d0ff8dc469"
   },
   "_source": "https://github.com/marklagendijk/angular-recursion.git",
-  "_target": "~1.0.5",
+  "_target": "^1.0.5",
   "_originalSource": "angular-recursion"
 }
